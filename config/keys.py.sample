@@ -8,3 +8,9 @@ misp_verifycert = True
 owm_key = 'Your OpenWeatherMap.org auth key'
 
 freeGeoIP_url = 'http://freegeoip.net/json'
+
+forceLoc = False
+## forceLoc = "London,GB" # In case of no location found or you want to simulate a location, you can set it manually here
+
+## This enable more output to debug issues
+DEBUG=False
