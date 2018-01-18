@@ -6,3 +6,5 @@ misp_key = 'Your MISP auth key' # The MISP auth key can be found on the MISP web
 misp_verifycert = True
 
 owm_key = 'Your OpenWeatherMap.org auth key'
+
+freeGeoIP_url = 'http://freegeoip.net/json'
