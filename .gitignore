@@ -1,3 +1,8 @@
+# General pyMISP related files to be ignored
+#
+config/keys.py
+*.swp
+*.pem
 
 # Created by https://www.gitignore.io/api/python
 
